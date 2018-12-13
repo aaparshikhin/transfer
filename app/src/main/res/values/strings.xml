@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">translation</string>
+    <string name="description_editText">Введите сумму от 10 до 1 000 000</string>
+    <string name="description_button">Перечислить средства</string>
+    <string name="account_source">Счет списания :</string>
+    <string name="account_target">Счет зачисления :</string>
+    <string name="positive_button">ОК</string>
+    <string name="activity_main_commission_description_percent">Комиссия равна %1$s %2$s (%3$s%%)</string>
+    <string name="activity_main_commission_description_fixed">Комиссия равна %1$s %2$s (фиксированная
+        комиссия при сумме до 500 %3$s)</string>
+    <string name="transfer_info">Счет отправителя: %1$s \nСчет зачисления: %2$s \nСумма перевода: %3$s</string>
+</resources>
